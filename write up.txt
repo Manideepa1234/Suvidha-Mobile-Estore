@@ -1,0 +1,51 @@
+#HTML Project
+
+* Create a Blog page Project using Html for the company Website
+
+Steps:
+
+ 1. Create a Website which has different categories of blog which can be accessed using navigation bar.
+
+         
+		 a). Created a local folder on desktop named as Html project.
+
+          b). create a website using html which has different categories like:-
+                            Index.html
+	                         Home.html
+	                         Product.html
+	                         Profile.html
+	                         Blog.html
+	                         Contactus.html
+	                        
+	 
+          c)These categories can be accessed  using navigation bar.
+		  
+		  
+2.  Develop an authentication UI for the blog site so that once customers register, the can access our blog page.
+
+
+             a) we develop the Register and login page for the customer who register himseif, after registration customer access ouru blog page or website	
+                
+                            Register.html
+                            Login.html				
+
+
+3.	we use all the important tags, attributtes	While developing the blog page:-
+
+
+          a) we use some tags like:-   <html>	</html>	,<body> </body>, <p> </p>, <br>, <h1></h1>, <ul></ul>, <li></li>,<form></form>, <iframe></iframe> etc
+		   
+		   
+          b)we use some attributes like:-  align, tittle, img, src,width, height etc
+		  
+		  
+		  
+4.   Step by step process screenshot  is submit after completing the project and submit the project online.		  
+
+
+		   
+
+
+
+      	   
+	                  
